@@ -13,7 +13,7 @@ cd act-bench
 bash download-datasets.sh
 ```
 
-In total, the datasets are about 408 MB in size.
+In total, the datasets are about 381 MB in size.
 
 ---
 
