@@ -1,5 +1,7 @@
 # act-bench
-Activation function benchmark datasets `Act-Bench-CNN`, `Act-Bench-ResNet`, and `Act-Bench-ViT`
+Activation function benchmark datasets `Act-Bench-CNN`, `Act-Bench-ResNet`, and `Act-Bench-ViT`.
+
+The paper Efficient Activation Function Optimization through Surrogate Modeling is available [here](https://arxiv.org/abs/2301.05785).
 
 ---
 
