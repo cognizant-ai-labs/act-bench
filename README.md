@@ -1,6 +1,8 @@
 # act-bench
 Activation function benchmark datasets `Act-Bench-CNN`, `Act-Bench-ResNet`, and `Act-Bench-ViT`.
 
+Looking for the AQuaSurF search algorithm?  You can find it [here](https://github.com/cognizant-ai-labs/aquasurf).
+
 The paper Efficient Activation Function Optimization through Surrogate Modeling is available [here](https://arxiv.org/abs/2301.05785).
 
 ---
